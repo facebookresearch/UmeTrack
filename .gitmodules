@@ -1,0 +1,3 @@
+[submodule "UmeTrack_data"]
+	path = UmeTrack_data
+	url = https://github.com/facebookresearch/UmeTrack_data.git
